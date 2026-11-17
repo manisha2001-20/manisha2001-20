@@ -4,7 +4,7 @@
 
 🌐 **Portfolio:** https://manisha2001-20.github.io/manisha-portfolio/ · 💼 [LinkedIn](https://www.linkedin.com/in/s-manisha-rani-patra-332bba430/) · ✉️ manisharanipatra2@gmail.com
 
- I build AI systems that are verifiable, fair and practical, from LLM safety middleware to multi-agent applications and ML analytics.
+I build AI systems that are verifiable, fair and practical, from LLM safety middleware to multi-agent applications and ML analytics.
 
 ## 📂 Project index
 
